@@ -1,0 +1,14 @@
+html, body {
+  background: linear-gradient(180deg, #FFFFFF 0%, #E9EDF0 67.71%);
+  height: 100%;
+}
+
+:root {
+  --primary-color: #2725B7;
+  --dark-color: #3c3c3c;
+  --box-shadow: -12px -12px 20px rgba(255, 255, 255, 0.8), 10px 10px 20px rgba(166, 180, 200, 0.7);
+}
+
+* {
+  font-family: 'Nunito';
+}
